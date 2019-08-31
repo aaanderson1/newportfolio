@@ -8,7 +8,7 @@ body{
 
 #landing{
     height: 100vh;
-    background-image: url('http://aand6604893.pipelinecourse.com/wp-content/uploads/2019/08/backgroundpic2.jpg');
+    background-image: url('../../assets/images/mountains-4420690_1280.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -25,9 +25,34 @@ body{
 }
 
 #work{
-    background-color: rgb(61,61,61);
+    background-color: rgb(105, 105, 105);
+    color: rgba(255,255,255,0.8);
 }
 
 #p1{
     height: 350px;
 }
+
+#projheader{
+
+}
+#
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 640px) {
+    .nav-resp {
+        width: 100%;
+        text-align: center;
+    }
+
+    #logo {
+        width: 100%;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 980px) {}
