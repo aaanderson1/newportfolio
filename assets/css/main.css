@@ -51,13 +51,6 @@ body{
     z-index: -1;  
 }
 
-/* .container {  
-    display: grid;  
-    grid-gap: 5px;  
-    grid-template-columns: repeat(auto-fit, 100px);
-    grid-template-rows: repeat(2, 100px);  
-} */
-
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 640px) {
     .nav-resp {
