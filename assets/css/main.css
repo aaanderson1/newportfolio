@@ -42,7 +42,7 @@ body{
 }
 
 #parallax-container{
-    height: 100vh;
+    height: 500px;
     background-image: url('../../assets/images/poppy-4243860_1920.jpg');
     background-position: center;
     background-size: cover;
