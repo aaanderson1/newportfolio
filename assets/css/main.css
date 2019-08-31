@@ -7,7 +7,7 @@ body{
 }
 
 #landing{
-    height: 100vh;
+    height: 600px;
     background-image: url('../../assets/images/mountains-4420690_1280.jpg');
     background-position: center;
     background-size: cover;
