@@ -36,8 +36,19 @@ body{
 #projheader{
 
 }
-#
+#h7{
+    text-align: right;
+}
 
+#parallax-container{
+    height: 100vh;
+    background-image: url('../../assets/images/poppy-4243860_1920.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;  
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 640px) {
