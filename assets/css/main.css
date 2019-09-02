@@ -52,7 +52,7 @@ body{
 }
 .projectimage{
   height: 22%;;
-  width: 100%;
+  width: auto;
 }
 
 /* Small devices (landscape phones, 576px and up) */
