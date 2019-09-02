@@ -50,6 +50,10 @@ body{
     background-attachment: fixed;
     z-index: -1;  
 }
+.projectimage{
+  height: 22%;;
+  width: 100%;
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 640px) {
