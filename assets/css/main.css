@@ -58,12 +58,12 @@ body{
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 640px) {
     .nav-resp {
-        width: 100%;
-        text-align: center;
+    width: 100%;
+    text-align: center;
     }
 
     #logo {
-        width: 100%;
+    width: 100%;
     }
 }
 
